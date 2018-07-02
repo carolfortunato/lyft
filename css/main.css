@@ -1,3 +1,180 @@
-/*
- * Estilos de tu proyecto
- */
+*{
+	font-family: 'Montserrat', sans-serif;
+	margin: 0px;
+}
+.banner-top {
+	position: relative;
+	height: 500px;
+	background-color: #76278F
+}
+.header {
+	padding-top: 20px;
+	display: flex;
+	justify-content: space-between;
+	color: white;
+}
+.logo {
+	padding-left: 90px;
+}
+.options {
+	padding-right: 180px;
+}
+.login{
+	display: inline-block;
+	margin-right: 5px;
+	height: 25px;
+	width: 65px;
+	padding: 5px;
+	border: 1px solid white;
+	border-radius: 6px;
+	text-align: center;
+}
+.drive, .explore, .help{
+	height: 25px;
+	width: 65px;
+	padding: 12px;
+}
+.side-form {
+	background-color: white;
+	position:absolute;
+	bottom:0;
+  right:0;
+	width: 550px;
+	height: 375px;
+}
+.side-form * {
+	padding-left: 55px;
+}
+h1 {
+	font-size: 30px;
+}
+.form-title{
+	padding-top: 50px;
+}
+h3 {
+	padding-top: 25px;
+}
+.phone-number {
+	width: 300px;
+	font-weight: lighter;
+	font-size: 16px;
+	color: grey;
+	border-bottom: 2px solid grey;
+	padding: 10px;
+	display: block;
+	margin-left: 55px;
+}
+.clicks {
+	margin: 25px; 
+	margin-bottom: 45px;
+}
+.drivers{
+	padding: 10px;
+	display: inline;
+	background-color: #FF00BF;
+	border-radius: 4px;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	height: 45px;
+	width: 65px;
+}
+.sign-up {
+	color: grey;
+}
+.application, .learn-more {
+	font-size: 11px;
+	color: grey;
+	padding-bottom: 10px;
+}
+.phone {
+	height: 640px;
+	display: flex;
+	color: white;
+	background: linear-gradient(#76278F, #2B1E66);
+	justify-content: space-between;
+}
+h2 {
+	padding-bottom: 10px;
+}
+.phone-text {
+	margin-left: 180px;
+	margin-top: 120px;
+	height: 400px;
+	width: 420px;
+	padding: 5px;
+}
+.cellphone {
+	margin-top: 100px;
+	margin-right: 180px;
+}
+.safety {
+	padding-top: 30px;
+	padding-bottom: 5px;
+}
+.happy-drivers {
+	padding-top: 30px;
+	padding-bottom: 5px;
+}
+.happy-riders {
+	padding-top: 0px;
+	padding-bottom: 7px;
+}
+.p1, .p2, .p3, .p4, .p5 {
+	font-size: 14px;
+	padding-top: 7px;
+}
+.p3 {
+	padding-top: 10px;
+}
+.watch {
+	height: 475px;
+	display: flex;
+	border: 1px solid black;
+}
+.text-box{
+	width: 500px;
+	padding-top: 20px;
+	padding-left: 75px;
+	padding-right: 45px;
+}
+h4.text-box {
+	font-size: 10px;
+	padding-top: 40px;
+}
+
+.footer-1{
+	height: 350px;
+	display: inline-flex;
+	background-color: #333447;
+	color: white;
+}
+lu{
+	list-style: none;
+	width: 270px;
+	padding-top: 65px;
+	padding-left: 70px;
+}
+
+li{
+	padding-bottom: 20px;
+}
+
+.footer-2{
+	height: 200px;
+	background-color: #333447;
+	color: white;
+	text-align: center;
+}
+
+a {
+	font-size: 30px;
+	padding: 20px;
+	padding-bottom: 10px;
+	text-align: justify;
+}
+
+.end {
+	padding: 40px;
+	font-size: 12px;
+}
