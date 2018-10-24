@@ -14,5 +14,5 @@ Esse é um desafio de "pixel perfect" de design web.
 ### Acesse o site
 [Lyft](https://carolfortunato.github.io/lyft/)
 
-## Desenvolvido para
+### Desenvolvido para
 [Laboratoria](https://www.laboratoria.la/br)
