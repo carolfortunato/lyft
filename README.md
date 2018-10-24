@@ -12,4 +12,7 @@ Esse é um desafio de "pixel perfect" de design web.
 ![screen shot](https://raw.githubusercontent.com/carolfortunato/lyft/master/fullpage.png)
 
 ### Acesse o site
-![screen shot](https://carolfortunato.github.io/lyft/)
+[Lyft](https://carolfortunato.github.io/lyft/)
+
+## Desenvolvido para
+[Laboratoria](https://www.laboratoria.la/br)
