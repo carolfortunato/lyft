@@ -6,7 +6,9 @@
 .banner-top {
 	position: relative;
 	height: 500px;
-	background-color: #76278F
+	background-image: url('../assets/images/hero.gif');
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 .header {
 	padding-top: 20px;
